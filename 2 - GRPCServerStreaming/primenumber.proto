@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package primenumber;
+
+
+message PrimeNumberRequest {
+	int32 primeNumber = 1;
+}
+
+message PrimeNumberResponse {
+	int32 result = 1;
+}
+
+service PrimeNumberService {
+	rpc CalculatePrimeNumber (PrimeNumberRequest) returns (stream PrimeNumberResponse) {}
+}

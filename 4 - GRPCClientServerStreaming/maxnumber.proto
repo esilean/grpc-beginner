@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package maxnumber;
+
+message RandomNumberRequest {
+	int32 number = 1;
+}
+
+message MaxNumberResponse {
+	int32 number = 1;
+}
+
+service MaxNumberService {
+	rpc GetMaxNumber (stream RandomNumberRequest) returns (stream MaxNumberResponse) {}
+}

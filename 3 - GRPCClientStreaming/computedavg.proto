@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package computedavg;
+
+message NumberXRequest {
+	int32 number_x = 1;
+}
+
+message NumberXResponse {
+	double result = 1;
+}
+
+service ComputedAvgService {
+	rpc ComputeAvg (stream NumberXRequest) returns (NumberXResponse) {}
+}
