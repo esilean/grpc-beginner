@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPC.Final.GrpcService", "GRPC.Final.GrpcService\GRPC.Final.GrpcService.csproj", "{288199BF-7001-4F3A-BFC6-3FCDF03771BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPC.Final.Client", "GRPC.Final.Client\GRPC.Final.Client.csproj", "{33BADAA6-D460-4D0F-97D0-70FB7972AB0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{06C008DA-8A7E-493B-B828-DFDC5DC07089}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{7B4A6D97-2CCF-427C-BD04-28DF410EDA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPC.Final.GrpcService.Data", "GRPC.Final.GrpcService.Data\GRPC.Final.GrpcService.Data.csproj", "{E88B4050-EFD6-4CA3-9ECF-2A513451297F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPC.Final.GrpcService.Domain", "GRPC.Final.GrpcService.Domain\GRPC.Final.GrpcService.Domain.csproj", "{A495BE84-7347-4A7F-9F94-B9F46669F6AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proto", "Proto", "{70A0DB75-203F-4ACE-B4D9-4E86616DDCCF}"
+	ProjectSection(SolutionItems) = preProject
+		blog.proto = blog.proto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288199BF-7001-4F3A-BFC6-3FCDF03771BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288199BF-7001-4F3A-BFC6-3FCDF03771BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288199BF-7001-4F3A-BFC6-3FCDF03771BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288199BF-7001-4F3A-BFC6-3FCDF03771BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BADAA6-D460-4D0F-97D0-70FB7972AB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BADAA6-D460-4D0F-97D0-70FB7972AB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BADAA6-D460-4D0F-97D0-70FB7972AB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BADAA6-D460-4D0F-97D0-70FB7972AB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88B4050-EFD6-4CA3-9ECF-2A513451297F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88B4050-EFD6-4CA3-9ECF-2A513451297F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88B4050-EFD6-4CA3-9ECF-2A513451297F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88B4050-EFD6-4CA3-9ECF-2A513451297F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A495BE84-7347-4A7F-9F94-B9F46669F6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A495BE84-7347-4A7F-9F94-B9F46669F6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A495BE84-7347-4A7F-9F94-B9F46669F6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A495BE84-7347-4A7F-9F94-B9F46669F6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{288199BF-7001-4F3A-BFC6-3FCDF03771BC} = {7B4A6D97-2CCF-427C-BD04-28DF410EDA80}
+		{33BADAA6-D460-4D0F-97D0-70FB7972AB0D} = {06C008DA-8A7E-493B-B828-DFDC5DC07089}
+		{E88B4050-EFD6-4CA3-9ECF-2A513451297F} = {7B4A6D97-2CCF-427C-BD04-28DF410EDA80}
+		{A495BE84-7347-4A7F-9F94-B9F46669F6AD} = {7B4A6D97-2CCF-427C-BD04-28DF410EDA80}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA8D4E0-7A22-49C0-9E6E-26D7E06165E0}
+	EndGlobalSection
+EndGlobal

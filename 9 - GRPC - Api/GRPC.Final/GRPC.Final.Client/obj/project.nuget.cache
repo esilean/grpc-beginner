@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqcxFgXJoyNCbJbgfbHdtCfVK8aUTKhjHk6ltsp4d00YQoIpALDRzz4/Ur2M7R3I343CNE7Kmf1utdOympNXfg==",
+  "success": true,
+  "projectFilePath": "D:\\Workspaces\\Apps\\grpc\\9 - GRPC - Api\\GRPC.Final\\GRPC.Final.Client\\GRPC.Final.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lebevila\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\Lebevila\\.nuget\\packages\\grpc\\2.33.1\\grpc.2.33.1.nupkg.sha512",
+    "C:\\Users\\Lebevila\\.nuget\\packages\\grpc.core\\2.33.1\\grpc.core.2.33.1.nupkg.sha512",
+    "C:\\Users\\Lebevila\\.nuget\\packages\\grpc.core.api\\2.33.1\\grpc.core.api.2.33.1.nupkg.sha512",
+    "C:\\Users\\Lebevila\\.nuget\\packages\\grpc.tools\\2.33.1\\grpc.tools.2.33.1.nupkg.sha512",
+    "C:\\Users\\Lebevila\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Lebevila\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

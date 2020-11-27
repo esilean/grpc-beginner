@@ -1,0 +1,9 @@
+D:\Workspaces\Apps\grpc\9 - GRPC - Api\GRPC.Final\GRPC.Final.GrpcService.Domain\bin\Debug\netcoreapp3.1\GRPC.Final.GrpcService.Domain.deps.json
+D:\Workspaces\Apps\grpc\9 - GRPC - Api\GRPC.Final\GRPC.Final.GrpcService.Domain\bin\Debug\netcoreapp3.1\GRPC.Final.GrpcService.Domain.dll
+D:\Workspaces\Apps\grpc\9 - GRPC - Api\GRPC.Final\GRPC.Final.GrpcService.Domain\bin\Debug\netcoreapp3.1\GRPC.Final.GrpcService.Domain.pdb
+D:\Workspaces\Apps\grpc\9 - GRPC - Api\GRPC.Final\GRPC.Final.GrpcService.Domain\obj\Debug\netcoreapp3.1\GRPC.Final.GrpcService.Domain.csprojAssemblyReference.cache
+D:\Workspaces\Apps\grpc\9 - GRPC - Api\GRPC.Final\GRPC.Final.GrpcService.Domain\obj\Debug\netcoreapp3.1\GRPC.Final.GrpcService.Domain.AssemblyInfoInputs.cache
+D:\Workspaces\Apps\grpc\9 - GRPC - Api\GRPC.Final\GRPC.Final.GrpcService.Domain\obj\Debug\netcoreapp3.1\GRPC.Final.GrpcService.Domain.AssemblyInfo.cs
+D:\Workspaces\Apps\grpc\9 - GRPC - Api\GRPC.Final\GRPC.Final.GrpcService.Domain\obj\Debug\netcoreapp3.1\GRPC.Final.GrpcService.Domain.csproj.CoreCompileInputs.cache
+D:\Workspaces\Apps\grpc\9 - GRPC - Api\GRPC.Final\GRPC.Final.GrpcService.Domain\obj\Debug\netcoreapp3.1\GRPC.Final.GrpcService.Domain.dll
+D:\Workspaces\Apps\grpc\9 - GRPC - Api\GRPC.Final\GRPC.Final.GrpcService.Domain\obj\Debug\netcoreapp3.1\GRPC.Final.GrpcService.Domain.pdb
